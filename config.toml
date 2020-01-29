@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Simple iOS Book"
+disableKinds = ['taxonomy', 'taxonomyTerm']
+theme = "book"

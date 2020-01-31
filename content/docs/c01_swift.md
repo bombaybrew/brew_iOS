@@ -1,3 +1,10 @@
+---
+title: "Chapter 1: Swift"
+date: 2019-03-26
+draft: false
+weightage: 1
+---
+
 # Chapter 1
 
 ## Super simple and important stuff about iOS development

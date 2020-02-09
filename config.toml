@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://swiftsurf.bombaybrew.in/"
 languageCode = "en-us"
-title = "Simple iOS Book"
+title = "Swift Surf"
 disableKinds = ['taxonomy', 'taxonomyTerm']
 theme = "book"

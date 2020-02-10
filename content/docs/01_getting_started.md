@@ -1,19 +1,19 @@
 ---
-title: "Chapter 1: Before you get started"
-date: 2019-03-26
-draft: false
-weightage: 1
+title: "Getting Started"
+date: 2020-02-08
 ---
 
-# Chapter 1
+# Getting Started
+---
+Status: WIP
 
-## Before you get started 
+## What do i need to start building an iOS app?
 
-A quick introduction about tools you need to start with your iOS app development :
-1. Xcode
-2. Mac/Virtual Machine
-3. Swift/Objective C
-
+1. Apple Mac computer.
+2. An [IDE (Integrated development environment)](https://en.wikipedia.org/wiki/Integrated_development_environment) to write and compile our app. Apple [Xcode](https://developer.apple.com/xcode/) in this case.
+3. Understanding of [Human Interface Guidelines.](https://developer.apple.com/design/human-interface-guidelines/)
+4. Fluency with [Swift](https://developer.apple.com/swift/) programming language.
+5. Source control system, for tracking changes to our source code. [Git](https://en.wikipedia.org/wiki/Git) in our case.
 
 ## Xcode 
   Xcode is an IDE(Integrated development environment) for Mac OS containing a suite of software development tools developed by Apple for developing softwares for iOS, iPadOS, watchOS etc. Xcode is a complete package that performs nearly all of the tasks that you need to do during software development such as :

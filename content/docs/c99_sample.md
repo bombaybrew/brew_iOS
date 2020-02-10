@@ -36,6 +36,9 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< tab "Windows" >}} # Windows Content {{< /tab >}}
 {{< /tabs >}}
 
+How to show an image
+![image caption here for xcode](/images/xcode.png)
+
 
 ## Reference
 

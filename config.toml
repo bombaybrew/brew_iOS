@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Swift Surf"
 disableKinds = ['taxonomy', 'taxonomyTerm']
 theme = "book"
+staticDir = ["static"]

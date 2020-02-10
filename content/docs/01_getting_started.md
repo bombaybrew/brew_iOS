@@ -1,13 +1,12 @@
 ---
-title: "Chapter 1: Before you get started"
-date: 2019-03-26
-draft: false
-weightage: 1
+title: "Getting Started"
+date: 2020-02-08
 ---
 
-# Chapter 1
+# Getting Started
+---
 
-## Before you get started 
+## What do i need to build an iOS app?
 
 A quick introduction about tools you need to start with your iOS app development :
 1. Xcode

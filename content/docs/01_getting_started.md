@@ -15,6 +15,9 @@ Status: WIP
 4. Fluency with [Swift](https://developer.apple.com/swift/) programming language.
 5. Source control system, for tracking changes to our source code. [Git](https://en.wikipedia.org/wiki/Git) in our case.
 
+At very minimal our aproach to app development looks like this
+![image caption here for xcode](/images/app_process.jpeg)
+
 ## Xcode 
   Xcode is an IDE(Integrated development environment) for Mac OS containing a suite of software development tools developed by Apple for developing softwares for iOS, iPadOS, watchOS etc. Xcode is a complete package that performs nearly all of the tasks that you need to do during software development such as :
 1. Editor to write your code

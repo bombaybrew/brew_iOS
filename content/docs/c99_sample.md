@@ -37,7 +37,7 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /tabs >}}
 
 How to show an image
-![image caption here for xcode](/images/xcode.png)
+![image caption here for xcode](/images/sample2.svg)
 
 
 ## Reference

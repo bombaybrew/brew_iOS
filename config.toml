@@ -4,3 +4,7 @@ title = "Swift Surf"
 disableKinds = ['taxonomy', 'taxonomyTerm']
 theme = "book"
 staticDir = ["static"]
+
+pygmentsStyle = "emacs"
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true

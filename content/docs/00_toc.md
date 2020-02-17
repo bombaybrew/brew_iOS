@@ -11,5 +11,7 @@ Helps you understand why do you need an iOS app
 Makes you an expert in swift.
 ### [Chapter 99: sample]({{< ref "c99_sample.md" >}})
 Everything you ever wanted to know about how this book was created and how to contribute.
+### [App Lifecycle]({{< ref "03_App_Lifecycle.md" >}})
+Guide to get you started contributing this book
 ### [Setup Guide]({{< ref "Setup.md" >}})
 Guide to get you started contributing this book

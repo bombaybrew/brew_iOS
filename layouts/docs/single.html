@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="markdown">
+  {{- .Content -}}
+  {{ partial "docs/footer-page" . }}
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

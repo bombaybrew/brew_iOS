@@ -2,6 +2,7 @@
 title: "Set up guide"
 date: 2019-02-2
 draft: false
+weight: 70
 ---
 
 # Set up guide

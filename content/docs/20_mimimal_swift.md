@@ -1,6 +1,7 @@
 ---
 title: "Minimal Swift"
 date: 2020-02-08
+weight: 20
 ---
 
 # Minimal Swift

@@ -4,3 +4,14 @@ title = "Swift Surf"
 disableKinds = ['taxonomy', 'taxonomyTerm']
 theme = "book"
 staticDir = ["static"]
+
+pygmentsStyle = "emacs"
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+    BookToC = true
+    BookDateFormat = 'Jan 2, 2006'
+
+[markup.tableOfContents]
+    startLevel = 1

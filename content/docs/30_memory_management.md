@@ -1,6 +1,7 @@
 ---
 title: "Memory Management"
 date: 2020-02-08
+weight: 30
 ---
 
 # Memory Management

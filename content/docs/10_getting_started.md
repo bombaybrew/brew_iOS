@@ -1,11 +1,11 @@
 ---
 title: "Getting Started"
-date: 2020-02-08
+date: 2020-10-24
+weight: 20
 ---
 
 # Getting Started
 ---
-Status: WIP
 
 ## What do i need to start building an iOS app?
 

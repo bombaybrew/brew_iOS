@@ -10,7 +10,7 @@ A simple, practial guide to iOS development.
 
 This book is a compilation of various techniques, patterns and tools used by authors to implement real world iOS solutions.
 
-This book references existing great content avaiable on internet when appropriate.
+This book references existing great content available on internet when appropriate.
 
 ## Contributions
 Wish to contribute?\

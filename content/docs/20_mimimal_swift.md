@@ -2,6 +2,7 @@
 title: "Minimal Swift"
 date: 2020-02-08
 weight: 20
+draft: true
 ---
 
 # Minimal Swift

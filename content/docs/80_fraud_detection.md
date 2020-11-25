@@ -1,5 +1,5 @@
 ---
-title: "Fraud Detectiono"
+title: "Fraud Detection"
 date: 2020-02-08
 weight: 80
 draft: true
